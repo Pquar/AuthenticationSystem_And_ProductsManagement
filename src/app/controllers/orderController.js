@@ -7,7 +7,7 @@ const router = express.Router();
 
 
 //usa a rota autenticada
-router.use(authMiddleware);
+//router.use(authMiddleware);
 
 //add Order
 router.post('/', async (req, res) => {
