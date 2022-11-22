@@ -1,8 +1,5 @@
 
 # Aplicacação de Autencição e Cadastro de produtos
-
-Esse projeto foi usado para meu projeto integrador (conclusão de curso) em **Sistemas para Internet**, consiste em:
-
 - Sistema de Autenticação.
   - Login.
   - Cadastro.
